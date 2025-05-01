@@ -25,12 +25,14 @@ All gameplay mechanics, logic, and behavior were implemented by me over six mile
 - `pom.xml` – Maven build configuration
 - `.idea/`, `META-INF/`, `.gitignore` – IDE and project config files
 
-### 🚀 How to Run
+## 🚀 How to Run
 
-1. Clone or download the repository
-2. Open the project in IntelliJ IDEA
-3. Make sure Maven is enabled (via `pom.xml`)
-4. Run the `Game` class in the `src/` directory
+1. Clone or download this repository
+2. Open the project in **IntelliJ IDEA**
+3. Make sure **Maven** is enabled (IntelliJ will auto-detect `pom.xml`)
+4. In the Project view, go to:  
+   `src/main/java/app/StartGame.java`
+5. Right-click `StartGame.java` → **Run**
 
 ---
 
